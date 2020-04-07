@@ -25,7 +25,7 @@
 </style>
 
 <main>
-  <h1>Hello {name}! oh boy</h1>
+  <h1>Hello {name}!</h1>
   <p>
     Visit the
     <a href="https://svelte.dev/tutorial">Svelte tutorial</a>
